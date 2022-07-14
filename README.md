@@ -1,1 +1,1 @@
-# 2022-summer-video-semantic-segmentation
+# 2022-summer-video-detr
